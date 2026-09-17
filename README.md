@@ -1,52 +1,67 @@
 <div align="center">
 
-# ⚡ DoSu_
+# 🎵 dosu_ • Suno Downloader Pro
 
-**Unlimited Audio, High-Res Cover Art & Prompt Metadata Downloader for Suno AI**
+**Ekstensi Browser Pintar untuk Download Massal Lagu & Video Suno AI Kualitas Studio 320kbps + ID3 Tag Otomatis**
 
-[![Release](https://img.shields.io/github/v/release/rtrwcloud/dosu-downloader?style=for-the-badge&color=000000)](https://github.com/rtrwcloud/dosu-downloader/releases)
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://rtrw.cloud)
+[![Manifest V3](https://img.shields.io/badge/Chrome_Extension-Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rtrw.cloud)
+[![Supported Browsers](https://img.shields.io/badge/Browsers-Chrome_|_Edge_|_Brave-FF7139?style=for-the-badge)](https://rtrw.cloud)
 [![Ecosystem](https://img.shields.io/badge/Brand-rtrw_-black?style=for-the-badge)](https://rtrw.cloud)
-[![Status](https://img.shields.io/badge/Status-Active_Production-success?style=for-the-badge)](https://rtrw.cloud)
+[![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)](https://rtrw.cloud)
 
-[Official Website](https://rtrw.cloud) • [Releases](https://github.com/rtrwcloud/dosu-downloader/releases) • [Get License](https://rtrw.cloud)
+[Website Resmi](https://rtrw.cloud) • [Panduan Pasang](#-cara-pemasangan-ekstensi) • [Beli Lisensi](https://rtrw.cloud)
 
 ---
 
 </div>
 
-## 📌 Tentang DoSu_
+## 📌 Apa itu dosu_?
 
-**DoSu_** adalah software utilitas berkecepatan tinggi yang dirancang khusus untuk memangkas waktu kerja kreator dan produser musik Suno AI.
+**dosu_ (Suno Downloader Pro)** adalah ekstensi browser (Google Chrome, Microsoft Edge, Brave) yang mengintegrasikan tombol unduh pintar langsung ke antarmuka web **suno.com**. 
 
-Mengunduh aset musik secara manual satu per satu membuang banyak waktu dan sering kali menghilangkan metadata penting. DoSu_ hadir untuk menyelesaikan masalah tersebut dengan mekanisme **sekali klik**: mengunduh track audio kualitas murni, cover art HD, dan parameter prompt lengkap secara instan.
-
----
-
-## ✨ Fitur Utama
-
-- ⚡ **Instant High-Speed Downloader:** Ambil file audio MP3/WAV dari Suno tanpa batas kuota harian dan tanpa antre lama.
-- 🖼️ **HD Cover Art Ripper:** Otomatis mengunduh cover album visual resolusi tinggi yang digenerate oleh AI.
-- 📝 **Full Prompt & Metadata Extraction:** Simpan parameter prompt asli, genre style tags, lirik, dan seed musik secara rapi tanpa risiko hilang.
-- 📁 **Organized Asset Foldering:** Struktur penyimpanan file otomatis yang rapi dan siap masuk ke DAW atau arsip produksi.
-- 🛡️ **Clean & Safe:** 100% bebas iklan, bebas malware, dan berjalan ringan di komputer tanpa menyita resource.
+Dibuat khusus untuk kreator, produser musik AI, dan agensi konten yang memproduksi puluhan hingga ratusan lagu per hari di Suno AI tanpa perlu repot download manual satu per satu.
 
 ---
 
-## 📥 Cara Unduh & Menjalankan
+## ⚡ Fitur Unggulan
 
-1. Kunjungi rilis resmi di [GitHub Releases](https://github.com/rtrwcloud/dosu-downloader/releases) atau akses melalui [Dashboard rtrw.cloud](https://rtrw.cloud).
-2. Unduh file `DoSu Setup.exe` atau versi Portable yang tersedia.
-3. Buka aplikasi dan nikmati pengalaman download aset Suno yang serba *sat-set_*.
+- 🔓 **Suno DRM Decryption Engine:** Mampu mendekripsi dan mengunduh lagu Suno yang terproteksi secara aman dan lossless via serverless API.
+- 📦 **Download Massal (Batch / Bulk Mode):** Unduh seluruh daftar lagu di playlist atau workspace Suno hanya dengan satu klik *sat-set_*.
+- 🎧 **Audio Kualitas Studio 320kbps:** Mendukung ekspor MP3 320kbps kualitas tinggi, WAV murni, dan video MP4 visualizer resmi dari Suno.
+- 🏷️ **Smart ID3 Metadata & Lirik Otomatis:** Otomatis menanamkan Cover Art resolusi tinggi, Judul Lagu, Nama Artis, Genre/Style Tags, dan **Lirik Lengkap** langsung ke dalam metadata file audio.
+- 📁 **Organisasi Folder Rapi:** File otomatis tersusun rapi di folder unduhan komputer Anda sesuai nama artis/lagu.
+- 🛡️ **Aman & Ringan:** Berjalan mulus di latar belakang tab browser tanpa membebani memori (RAM) komputer.
 
 ---
 
-## 🌐 Ekosistem rtrw_
+## 💻 Kompatibilitas Browser
 
-DoSu_ terhubung langsung dengan ekosistem platform **rtrw.cloud**:
-- **DoSu_:** Unlimited Suno Audio & Metadata Downloader.
-- **ReSu_:** Audio Sanitizer & Studio Remaster Pro.
-- **Klepto:** AI Vocal Transformation Engine (Coming Soon).
+Ekstensi dosu_ kompatibel penuh dengan semua browser berbasis Chromium:
+* Google Chrome
+* Microsoft Edge
+* Brave Browser
+* Opera / Vivaldi
+
+---
+
+## 🚀 Cara Pemasangan Ekstensi
+
+1. Unduh paket file **`DoSu_Pro.zip`** resmi melalui [Dashboard rtrw.cloud](https://rtrw.cloud).
+2. Ekstrak file ZIP tersebut ke salah satu folder di komputer Anda.
+3. Buka browser dan ketik alamat:
+   - Chrome / Brave: `chrome://extensions`
+   - Edge: `edge://extensions`
+4. Aktifkan saklar **Developer Mode (Mode Pengembang)** di pojok kanan atas.
+5. Klik tombol **Load unpacked (Muat yang belum dibongkar)** di kiri atas, lalu pilih folder ekstensi hasil ekstrak.
+6. Buka [suno.com](https://suno.com), klik icon ekstensi dosu_ di toolbar browser, dan masukkan Serial Key lisensi Anda. Selesai!
+
+---
+
+## 🌐 Ekosistem Tools rtrw_
+
+- **dosu_:** Suno Audio & Video Downloader Pro (Browser Extension).
+- **ReSu_:** Studio Audio Remaster & Noise Sanitizer (Desktop App).
+- **Klepto:** AI Vocal Transformation Engine.
 
 ---
 
